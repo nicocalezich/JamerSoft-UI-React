@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JamerSoft-UI-React/static/css/main.1a8a0596.css",
+    "main.js": "/JamerSoft-UI-React/static/js/main.1ff6470a.js",
+    "index.html": "/JamerSoft-UI-React/index.html",
+    "main.1a8a0596.css.map": "/JamerSoft-UI-React/static/css/main.1a8a0596.css.map",
+    "main.1ff6470a.js.map": "/JamerSoft-UI-React/static/js/main.1ff6470a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.1ff6470a.js"
+  ]
+}
